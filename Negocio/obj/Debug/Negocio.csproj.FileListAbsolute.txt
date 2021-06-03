@@ -1,0 +1,54 @@
+D:\Luciano\UTN\OneDrive - frgp.utn.edu.ar\TSP\3er Cuatri\Programacion 3\TP-WinForm\Negocio\bin\Debug\Negocio.dll
+D:\Luciano\UTN\OneDrive - frgp.utn.edu.ar\TSP\3er Cuatri\Programacion 3\TP-WinForm\Negocio\bin\Debug\Negocio.pdb
+D:\Luciano\UTN\OneDrive - frgp.utn.edu.ar\TSP\3er Cuatri\Programacion 3\TP-WinForm\Negocio\bin\Debug\Dominio.dll
+D:\Luciano\UTN\OneDrive - frgp.utn.edu.ar\TSP\3er Cuatri\Programacion 3\TP-WinForm\Negocio\bin\Debug\Dominio.pdb
+D:\Luciano\UTN\OneDrive - frgp.utn.edu.ar\TSP\3er Cuatri\Programacion 3\TP-WinForm\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\Luciano\UTN\OneDrive - frgp.utn.edu.ar\TSP\3er Cuatri\Programacion 3\TP-WinForm\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Luciano\UTN\OneDrive - frgp.utn.edu.ar\TSP\3er Cuatri\Programacion 3\TP-WinForm\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\Luciano\UTN\OneDrive - frgp.utn.edu.ar\TSP\3er Cuatri\Programacion 3\TP-WinForm\Negocio\obj\Debug\Negocio.dll
+D:\Luciano\UTN\OneDrive - frgp.utn.edu.ar\TSP\3er Cuatri\Programacion 3\TP-WinForm\Negocio\obj\Debug\Negocio.pdb
+C:\Users\aleh0\Downloads\Actividad2-master\Negocio\bin\Debug\Negocio.dll
+C:\Users\aleh0\Downloads\Actividad2-master\Negocio\bin\Debug\Negocio.pdb
+C:\Users\aleh0\Downloads\Actividad2-master\Negocio\bin\Debug\Dominio.dll
+C:\Users\aleh0\Downloads\Actividad2-master\Negocio\bin\Debug\Dominio.pdb
+C:\Users\aleh0\Downloads\Actividad2-master\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\aleh0\Downloads\Actividad2-master\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\aleh0\Downloads\Actividad2-master\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\aleh0\Downloads\Actividad2-master\Negocio\obj\Debug\Negocio.dll
+C:\Users\aleh0\Downloads\Actividad2-master\Negocio\obj\Debug\Negocio.pdb
+C:\Users\aleh0\Downloads\fgfgfgfhgfjhkhklh\Actividad2\Negocio\bin\Debug\Negocio.dll
+C:\Users\aleh0\Downloads\fgfgfgfhgfjhkhklh\Actividad2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\aleh0\Downloads\fgfgfgfhgfjhkhklh\Actividad2\Negocio\bin\Debug\Dominio.dll
+C:\Users\aleh0\Downloads\fgfgfgfhgfjhkhklh\Actividad2\Negocio\bin\Debug\Dominio.pdb
+C:\Users\aleh0\Downloads\fgfgfgfhgfjhkhklh\Actividad2\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\aleh0\Downloads\fgfgfgfhgfjhkhklh\Actividad2\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\aleh0\Downloads\fgfgfgfhgfjhkhklh\Actividad2\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\aleh0\Downloads\fgfgfgfhgfjhkhklh\Actividad2\Negocio\obj\Debug\Negocio.dll
+C:\Users\aleh0\Downloads\fgfgfgfhgfjhkhklh\Actividad2\Negocio\obj\Debug\Negocio.pdb
+C:\Users\aleh0\Downloads\Yomanel Luciano-Herrera Alejandro\Actividad2\Negocio\bin\Debug\Negocio.dll
+C:\Users\aleh0\Downloads\Yomanel Luciano-Herrera Alejandro\Actividad2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\aleh0\Downloads\Yomanel Luciano-Herrera Alejandro\Actividad2\Negocio\bin\Debug\Dominio.dll
+C:\Users\aleh0\Downloads\Yomanel Luciano-Herrera Alejandro\Actividad2\Negocio\bin\Debug\Dominio.pdb
+C:\Users\aleh0\Downloads\Yomanel Luciano-Herrera Alejandro\Actividad2\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\aleh0\Downloads\Yomanel Luciano-Herrera Alejandro\Actividad2\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\aleh0\Downloads\Yomanel Luciano-Herrera Alejandro\Actividad2\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\aleh0\Downloads\Yomanel Luciano-Herrera Alejandro\Actividad2\Negocio\obj\Debug\Negocio.dll
+C:\Users\aleh0\Downloads\Yomanel Luciano-Herrera Alejandro\Actividad2\Negocio\obj\Debug\Negocio.pdb
+C:\Users\aleh0\Downloads\version entregada\tp-winform-Yomayel-Herrera\Negocio\bin\Debug\Negocio.dll
+C:\Users\aleh0\Downloads\version entregada\tp-winform-Yomayel-Herrera\Negocio\bin\Debug\Negocio.pdb
+C:\Users\aleh0\Downloads\version entregada\tp-winform-Yomayel-Herrera\Negocio\bin\Debug\Dominio.dll
+C:\Users\aleh0\Downloads\version entregada\tp-winform-Yomayel-Herrera\Negocio\bin\Debug\Dominio.pdb
+C:\Users\aleh0\Downloads\version entregada\tp-winform-Yomayel-Herrera\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\aleh0\Downloads\version entregada\tp-winform-Yomayel-Herrera\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\aleh0\Downloads\version entregada\tp-winform-Yomayel-Herrera\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\aleh0\Downloads\version entregada\tp-winform-Yomayel-Herrera\Negocio\obj\Debug\Negocio.dll
+C:\Users\aleh0\Downloads\version entregada\tp-winform-Yomayel-Herrera\Negocio\obj\Debug\Negocio.pdb
+C:\Users\aleh0\OneDrive\Imágenes\Documentos\PROG 3 2021\version entregada\tp-winform-Yomayel-Herrera\Negocio\bin\Debug\Negocio.dll
+C:\Users\aleh0\OneDrive\Imágenes\Documentos\PROG 3 2021\version entregada\tp-winform-Yomayel-Herrera\Negocio\bin\Debug\Negocio.pdb
+C:\Users\aleh0\OneDrive\Imágenes\Documentos\PROG 3 2021\version entregada\tp-winform-Yomayel-Herrera\Negocio\bin\Debug\Dominio.dll
+C:\Users\aleh0\OneDrive\Imágenes\Documentos\PROG 3 2021\version entregada\tp-winform-Yomayel-Herrera\Negocio\bin\Debug\Dominio.pdb
+C:\Users\aleh0\OneDrive\Imágenes\Documentos\PROG 3 2021\version entregada\tp-winform-Yomayel-Herrera\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\aleh0\OneDrive\Imágenes\Documentos\PROG 3 2021\version entregada\tp-winform-Yomayel-Herrera\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\aleh0\OneDrive\Imágenes\Documentos\PROG 3 2021\version entregada\tp-winform-Yomayel-Herrera\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\aleh0\OneDrive\Imágenes\Documentos\PROG 3 2021\version entregada\tp-winform-Yomayel-Herrera\Negocio\obj\Debug\Negocio.dll
+C:\Users\aleh0\OneDrive\Imágenes\Documentos\PROG 3 2021\version entregada\tp-winform-Yomayel-Herrera\Negocio\obj\Debug\Negocio.pdb

@@ -1,0 +1,30 @@
+D:\Luciano\UTN\OneDrive - frgp.utn.edu.ar\TSP\3er Cuatri\Programacion 3\TP-WinForm\Dominio\bin\Debug\Dominio.dll
+D:\Luciano\UTN\OneDrive - frgp.utn.edu.ar\TSP\3er Cuatri\Programacion 3\TP-WinForm\Dominio\bin\Debug\Dominio.pdb
+D:\Luciano\UTN\OneDrive - frgp.utn.edu.ar\TSP\3er Cuatri\Programacion 3\TP-WinForm\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+D:\Luciano\UTN\OneDrive - frgp.utn.edu.ar\TSP\3er Cuatri\Programacion 3\TP-WinForm\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+D:\Luciano\UTN\OneDrive - frgp.utn.edu.ar\TSP\3er Cuatri\Programacion 3\TP-WinForm\Dominio\obj\Debug\Dominio.dll
+D:\Luciano\UTN\OneDrive - frgp.utn.edu.ar\TSP\3er Cuatri\Programacion 3\TP-WinForm\Dominio\obj\Debug\Dominio.pdb
+C:\Users\aleh0\Downloads\fgfgfgfhgfjhkhklh\Actividad2\Dominio\bin\Debug\Dominio.dll
+C:\Users\aleh0\Downloads\fgfgfgfhgfjhkhklh\Actividad2\Dominio\bin\Debug\Dominio.pdb
+C:\Users\aleh0\Downloads\fgfgfgfhgfjhkhklh\Actividad2\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\aleh0\Downloads\fgfgfgfhgfjhkhklh\Actividad2\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\aleh0\Downloads\fgfgfgfhgfjhkhklh\Actividad2\Dominio\obj\Debug\Dominio.dll
+C:\Users\aleh0\Downloads\fgfgfgfhgfjhkhklh\Actividad2\Dominio\obj\Debug\Dominio.pdb
+C:\Users\aleh0\Downloads\Yomanel Luciano-Herrera Alejandro\Actividad2\Dominio\bin\Debug\Dominio.dll
+C:\Users\aleh0\Downloads\Yomanel Luciano-Herrera Alejandro\Actividad2\Dominio\bin\Debug\Dominio.pdb
+C:\Users\aleh0\Downloads\Yomanel Luciano-Herrera Alejandro\Actividad2\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\aleh0\Downloads\Yomanel Luciano-Herrera Alejandro\Actividad2\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\aleh0\Downloads\Yomanel Luciano-Herrera Alejandro\Actividad2\Dominio\obj\Debug\Dominio.dll
+C:\Users\aleh0\Downloads\Yomanel Luciano-Herrera Alejandro\Actividad2\Dominio\obj\Debug\Dominio.pdb
+C:\Users\aleh0\Downloads\version entregada\tp-winform-Yomayel-Herrera\Dominio\bin\Debug\Dominio.dll
+C:\Users\aleh0\Downloads\version entregada\tp-winform-Yomayel-Herrera\Dominio\bin\Debug\Dominio.pdb
+C:\Users\aleh0\Downloads\version entregada\tp-winform-Yomayel-Herrera\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\aleh0\Downloads\version entregada\tp-winform-Yomayel-Herrera\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\aleh0\Downloads\version entregada\tp-winform-Yomayel-Herrera\Dominio\obj\Debug\Dominio.dll
+C:\Users\aleh0\Downloads\version entregada\tp-winform-Yomayel-Herrera\Dominio\obj\Debug\Dominio.pdb
+C:\Users\aleh0\OneDrive\Imágenes\Documentos\PROG 3 2021\version entregada\tp-winform-Yomayel-Herrera\Dominio\bin\Debug\Dominio.dll
+C:\Users\aleh0\OneDrive\Imágenes\Documentos\PROG 3 2021\version entregada\tp-winform-Yomayel-Herrera\Dominio\bin\Debug\Dominio.pdb
+C:\Users\aleh0\OneDrive\Imágenes\Documentos\PROG 3 2021\version entregada\tp-winform-Yomayel-Herrera\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\aleh0\OneDrive\Imágenes\Documentos\PROG 3 2021\version entregada\tp-winform-Yomayel-Herrera\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\aleh0\OneDrive\Imágenes\Documentos\PROG 3 2021\version entregada\tp-winform-Yomayel-Herrera\Dominio\obj\Debug\Dominio.dll
+C:\Users\aleh0\OneDrive\Imágenes\Documentos\PROG 3 2021\version entregada\tp-winform-Yomayel-Herrera\Dominio\obj\Debug\Dominio.pdb
