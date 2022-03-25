@@ -6,7 +6,7 @@ use POKEDEX_DB
 go
 USE POKEDEX_DB
 GO
-
+--comentario de prueba
 /****** Object:  Table [dbo].[ELEMENTOS]    Script Date: 4/15/2021 6:37:41 PM ******/
 SET ANSI_NULLS ON
 GO
